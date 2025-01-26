@@ -2,26 +2,24 @@
 <img src="https://i.imgur.com/tZLUbHU.jpeg" width="100%">
 
 <p align="center">
-  <a href="https://shawncharles.com" target="_blank">
+  <a href="https://comfy-sunflower-65bc36.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
-  <a href="https://shawncharles.com/linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/pragurung/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://shawncharles.com/twitter" target="_blank">
+  <a href="https://x.com/PrasannaGu25663" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="https://shawncharles.com/angellist" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
-  <a href="https://shawncharles.com/resume" target="_blank">
+
+  <a href="https://amaranth-nedi-78.tiiny.site" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
 
-Previously an Amazon Full-Stack Software Engineer, I am motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Business Management.
+100 Dev Software Developer, I am motivated by the advanced use of technology for greater good with emphasis on Computer science and Networking.
 
-See [my website](https://shawncharles.com) for more information!
+See [my website](https://comfy-sunflower-65bc36.netlify.app) for more information!
 
 
 <h1 align="center">Projects</h1>
@@ -29,10 +27,12 @@ See [my website](https://shawncharles.com) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Travelara.org</h3>
+      <h3 align="center">Lake Bloom House.org</h3>
         <br />
-        <a target="_blank" href="https://shawncharles.com/travelara">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+        <a target="_blank" href="https://floating-everglades-08201-1f284706311d.herokuapp.com">
+          
+          ![G4dA](https://github.com/user-attachments/assets/ef7aeb4f-a133-47cd-823a-591dd451335a)
+
         </a>
         <br />
         <p align="center">
