@@ -31,7 +31,7 @@ See [my website](https://comfy-sunflower-65bc36.netlify.app) for more informatio
         <br />
         <a target="_blank" href="https://floating-everglades-08201-1f284706311d.herokuapp.com">
           
-          ![G4dA](https://github.com/user-attachments/assets/ef7aeb4f-a133-47cd-823a-591dd451335a)
+          <img src="https://i.gifer.com/G4dA.gif" width="100%"  alt="Social media"/>
 
         </a>
         <br />
