@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/tZLUbHU.jpeg" width="100%">
 
-<p align="center">
+<p >
   <a href="https://comfy-sunflower-65bc36.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
@@ -20,12 +20,12 @@
 
 See [my website](https://comfy-sunflower-65bc36.netlify.app) for more information!
 
-<h1 align="center">Projects</h1>
+<h1 >Projects</h1>
 <table bordercolor="#66b2b2">
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Lake Bloom House.org</h3>
+      <h3 >Lake Bloom House.org</h3>
         <br />
         <a target="_blank" href="https://floating-everglades-08201-1f284706311d.herokuapp.com">
        <img src="images/G4dA.gif" width="100%"  alt="Rigley 2"/>
@@ -33,7 +33,6 @@ See [my website](https://comfy-sunflower-65bc36.netlify.app) for more informatio
         </a>
         <br />
         <p align="center">
-
 
   <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
