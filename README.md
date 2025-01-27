@@ -63,7 +63,7 @@ I am Prasanna Gurung<br><br>I am a motivated and detail-oriented software develo
       <h3 align="center">Exclusive Silicon Members Society</h3>
         <br />
       <a target="_blank" href="https://members-exclusie-api-f4a2ab652f5b.herokuapp.com">
-            <img src="images/gif2.gif" width="100%"  alt="Secret society"/>
+            <img src="images/Cwgf.gif" width="100%"  alt="Secret society"/>
         </a>
         <br />
         <p align="center">
@@ -84,7 +84,7 @@ I am Prasanna Gurung<br><br>I am a motivated and detail-oriented software develo
       <h3 align="center">Prasanna Gurung.com</h3>
       <br />
         <a target="_blank" href="https://comfy-sunflower-65bc36.netlify.app">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+          <img src="images/Q14t.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
