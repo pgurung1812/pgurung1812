@@ -2,14 +2,14 @@
 Hello world , I am Prasanna Gurung<br><br>I am a motivated and detail-oriented software developer with a strong foundation in Java, Python, JavaScript, data structures, and algorithms. I completed a degree in Computer Science equipping me with the skills to develop efficient, user-friendly software solutions.<br><br>I have hands-on experience working on full stack projects where I developed numerous applications and honed my problem-solving and collaboration skills. I am particularly interested in  web development, mobile app development, or backend systems and am eager to contribute to innovative projects that create real-world impact.<br><br>I am a quick learner who thrives in collaborative environments and embraces opportunities to grow and adapt in the ever-evolving tech industry. My goal is to leverage my technical skills and passion for software development to help build cutting-edge solutions while continuously expanding my knowledge.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pragurung/) 
 <p align="center">
   <a href="https://comfy-sunflower-65bc36.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://amaranth-nedi-78.tiiny.site/" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>  <a href="https://www.linkedin.com/in/pragurung/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
 </p>
 
