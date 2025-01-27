@@ -6,7 +6,7 @@ Hello world , I am Prasanna Gurung<br><br>I am a motivated and detail-oriented s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pragurung/) 
 <p align="center">
   <a href="https://comfy-sunflower-65bc36.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://amaranth-nedi-78.tiiny.site/" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
