@@ -97,7 +97,7 @@ I am Prasanna Gurung<br><br>I am a motivated and detail-oriented software develo
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
-    <td width="50%" valign="top">
+<!--     <td width="50%" valign="top">
       <h3 align="center">Matching Cards</h3>
         <br />
         <a target="_blank" href="https://poke-matchcards.netlify.app/">
@@ -114,7 +114,7 @@ I am Prasanna Gurung<br><br>I am a motivated and detail-oriented software develo
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
-    </td>
+    </td> -->
   </tr>
 </table>
 
